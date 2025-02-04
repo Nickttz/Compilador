@@ -1,0 +1,32 @@
+inicio
+	var int x;
+	x = 5;
+	escreva(x);
+fim
+
+inicio
+	var int x, y;
+	x = 10;
+	y = 20;
+	escreva(x + y);
+fim
+
+inicio
+  var bool expressao;
+  expressao = verdadeiro;
+  enquanto (expressao) faca
+    escreva("Expressao verdadeira");
+  fim_enquanto
+fim
+
+inicio
+	var bool condicao;
+	condicao = verdadeiro;
+	se (condicao) entaao
+    	escreva("Condição verdadeira");
+	senao
+    	escreva("Condição falsa");
+	fim_se
+fim
+
+
